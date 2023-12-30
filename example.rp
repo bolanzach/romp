@@ -1,0 +1,7 @@
+
+resource ExampleRequest {
+	thing: string;
+
+	// this is a comment
+	otherThing: string;
+}
